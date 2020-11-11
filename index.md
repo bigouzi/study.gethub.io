@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到github 页面
 
 You can use the [editor on GitHub](https://github.com/bigouzi/study.gethub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-### 我有一头小毛驴我从来也不骑
+### 我有一头小毛驴我从来也不骑，有一天我心血来潮骑着去赶集
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
