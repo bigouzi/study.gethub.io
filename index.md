@@ -1,6 +1,7 @@
 ## 欢迎来到github 页面
 
 You can use the [editor on GitHub](https://github.com/bigouzi/study.gethub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你 可以 使用 这个 GitHub编辑器  去维护 和 修改 你网站 中的 MarkDown 文件 内容
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
