@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/bigouzi/study.gethub.io/ed
 你 可以 使用 这个 GitHub编辑器  去维护 和 修改 你网站 中的 MarkDown 文件 内容
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+当你编辑这个资源的时候，GitHub 页面 将 运行 这个去 重构这个页面 在 你的 站点 ，从这个内容 文件
 
 ### Markdown
 
